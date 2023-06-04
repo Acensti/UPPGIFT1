@@ -1,6 +1,16 @@
-﻿namespace Apibackend.Context
+﻿using Apibackend.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
+namespace Apibackend.Context
 {
-    public class IdentityContext
+    public class IdentityContext : IdentityDbContext<IdentityUser>
     {
+        public IdentityContext(DbContextOptions<IdentityContext> options) : base(options)
+        {
+        }
+
+        public DbSet<UserEntity> UserProfile { get; set; }
     }
 }

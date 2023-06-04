@@ -49,7 +49,7 @@ namespace Apibackend.Repositories
         }
 
         // Retrieves an entity that matches the given expression
-        public async Task<TEntity> FindAsync(Expression<Func<TEntity, bool>> expression)
+        public virtual async Task<TEntity> FindAsync(Expression<Func<TEntity, bool>> expression)
         {
             try
             {

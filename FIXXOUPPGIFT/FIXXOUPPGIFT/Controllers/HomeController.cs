@@ -1,4 +1,6 @@
 ﻿using FIXXOUPPGIFT.Models;
+using FIXXOUPPGIFT.ViewModels;
+using FIXXOUPPGIFT.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,27 +8,28 @@ namespace FIXXOUPPGIFT.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ProductService _productService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ProductService productService)
         {
-            _logger = logger;
+            _productService = productService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
-        }
+            var featuredProducts = await _productService.GetByTagAsync("Featured");
+            var newProducts = await _productService.GetByTagAsync("New");
+            var popularProducts = await _productService.GetByTagAsync("Popular");
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+            HomeViewModel model = new HomeViewModel()
+            {
+                Featured = featuredProducts.Take(8),
+                New = newProducts.Take(8),
+                Popular = popularProducts.Take(8)
+            };
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+
+            return View(model);
         }
     }
 }

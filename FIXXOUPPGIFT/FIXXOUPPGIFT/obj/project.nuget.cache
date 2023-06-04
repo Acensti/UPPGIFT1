@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "kZPM9GMtU9okYSskYxAjuK0ec1xi9FqWrO+O4cdZMevNfmT5w/5roZeZnZKX9oZVeyRfz3U1pbnRrGi2fcrFIA==",
+  "dgSpecHash": "jL4mj5JUd76PIehGhv0y5T4th52xD6E/hI9w+hfMvmimFoo4lRNTOohHOG0ms4ByInsLiFYju+cKYxq6tIXtaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FIXXOUPPGIFT\\FIXXOUPPGIFT\\FIXXOUPPGIFT.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\git\\UPPGIFT1\\FIXXOUPPGIFT\\FIXXOUPPGIFT\\FIXXOUPPGIFT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.21.0\\microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.21.0\\microsoft.identitymodel.jsonwebtokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.logging\\6.21.0\\microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

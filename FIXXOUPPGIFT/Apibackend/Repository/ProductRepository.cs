@@ -43,7 +43,7 @@ namespace ApiBackend.Repositories
         }
 
 
-        public virtual async Task<ProductEntity> FindAsync(Expression<Func<ProductEntity, bool>> expression)
+        public override async Task<ProductEntity> FindAsync(Expression<Func<ProductEntity, bool>> expression)
         {
             try
             {

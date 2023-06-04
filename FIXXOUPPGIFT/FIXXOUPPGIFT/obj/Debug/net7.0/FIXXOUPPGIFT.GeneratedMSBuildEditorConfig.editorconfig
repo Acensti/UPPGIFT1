@@ -9,37 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FIXXOUPPGIFT
 build_property.RootNamespace = FIXXOUPPGIFT
-build_property.ProjectDir = C:\Users\Admin\source\repos\FIXXOUPPGIFT\FIXXOUPPGIFT\
+build_property.ProjectDir = C:\Users\Admin\Desktop\git\UPPGIFT1\FIXXOUPPGIFT\FIXXOUPPGIFT\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\FIXXOUPPGIFT\FIXXOUPPGIFT
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\git\UPPGIFT1\FIXXOUPPGIFT\FIXXOUPPGIFT
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Home/Index.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Admin/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Home/Privacy.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/Error.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Products/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_CollectionItemPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db2xsZWN0aW9uSXRlbVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_CollectionPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db2xsZWN0aW9uUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_ContactFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0Rm9ybVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_ShowcasePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG93Y2FzZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_SpecialOfferPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TcGVjaWFsT2ZmZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_StarRatingPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdGFyUmF0aW5nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/_ViewImports.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/_ViewStart.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_Layout.cshtml]
+[C:/Users/Admin/Desktop/git/UPPGIFT1/FIXXOUPPGIFT/FIXXOUPPGIFT/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-45w0mrg18r

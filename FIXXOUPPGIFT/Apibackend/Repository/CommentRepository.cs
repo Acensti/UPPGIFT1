@@ -1,21 +1,17 @@
 ﻿using Apibackend.Context;
+using Apibackend.Models;
+using Apibackend.Repositories;
+using Apibackend.Repository;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Apibackend.Repository
 {
-    public class Repository<T> where T : class
+    public class CommentRepository : BaseRepository<CommentEntity>
     {
-        protected readonly DataContext _context;
-        private readonly DbSet<T> _entities;
-
-        public Repository(DataContext context)
+        public CommentRepository(DataContext context) : base(context)
         {
-            _context = context;
-            _entities = context.Set<T>();
         }
-
-       
     }
 }
